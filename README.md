@@ -1,4 +1,4 @@
-# Frontend-Nanoedegree-Feedreader
+# Frontend-Nanodegree-Feedreader
 
 This project uses [Jasmine](http://jasmine.github.io/) to perform a series of tests on an application that reads RSS Feeds.
 
