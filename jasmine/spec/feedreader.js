@@ -85,7 +85,7 @@ $(function() {
             });
         });
         it('content changes when new feed is loaded', function() {
-            expect(newFeed).toBe(initialFeed); 
+            expect(newFeed).not.toBe(initialFeed); 
         });
     });    
 }());
